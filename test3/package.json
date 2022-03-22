@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "codeceptjs": "^3.3.0",
-    "puppeteer": "^13.5.1"
-  }
-}
