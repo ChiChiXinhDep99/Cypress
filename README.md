@@ -1,20 +1,19 @@
 # CYPRESS
 # install_project
-*  Bước 1:Kiểm tra xem đã có node js và npm chưa
-![](img/anh_8.png)
-* Bước 2: Tạo một thư mục
-![](img/anh_9.png)
-* Bước 3:Chạy lệnh npm init:
-![](img/anh_10.png)
-* Bước 4: Bước 4:Cài đặt cypress:
-![](img/anh_11.png)
-* Bước 5: Vào file package.json:
-![](img/anh_12.png)
-Thêm vào script: 
-+   "cy:open":"cypress open": để mở cypress lên
+*  Bước 1:Kiểm tra xem đã có node js và npm chưa<br>
+![](img/anh_8.png)<br>
+* Bước 2: Tạo một thư mục<br>
+![](img/anh_9.png)<br>
+* Bước 3:Chạy lệnh npm init:<br>
+![](img/anh_10.png)<br>
+* Bước 4: Bước 4:Cài đặt cypress:<br>
+![](img/anh_11.png)<br>
+* Bước 5: Vào file package.json:<br>
+![](img/anh_12.png)<br>
+Thêm vào script: <br>
++   "cy:open":"cypress open": để mở cypress lên<br>
 +   "cy:run":"cypress run": để chạy cypress <br>
-
-* Bước 6: Mở cypress lên dùng lệnh:
+* Bước 6: Mở cypress lên dùng lệnh:<br>
 +   cypress open or ./node_modules/.bin/cypress open<br>
 ![](img/anh_14.png)<br>
 * Bước 7: Chạy cypress lên dùng lệnh:
